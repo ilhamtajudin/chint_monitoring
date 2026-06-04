@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Build frontend
+chint-dashboard/node_modules/
+chint-dashboard/dist/

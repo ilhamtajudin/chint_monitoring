@@ -1,0 +1,5 @@
+MQTT_BROKER = "192.168.100.8"
+MQTT_PORT = 1883
+
+MQTT_USERNAME = "arssy"
+MQTT_PASSWORD = "password"
